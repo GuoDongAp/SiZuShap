@@ -1,8 +1,9 @@
 package com.example.shap.base;
 
 
-import com.example.wanandroider.interfaces.IBasePresenter;
-import com.example.wanandroider.interfaces.IBaseView;
+
+import com.example.shap.interfaces.IBasePresenter;
+import com.example.shap.interfaces.IBaseView;
 
 import java.lang.ref.WeakReference;
 

@@ -8,8 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.wanandroider.interfaces.IBasePresenter;
-import com.example.wanandroider.interfaces.IBaseView;
+
+import com.example.shap.interfaces.IBasePresenter;
+import com.example.shap.interfaces.IBaseView;
 
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
